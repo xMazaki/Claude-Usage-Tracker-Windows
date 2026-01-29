@@ -55,16 +55,6 @@ Inspired by the excellent macOS version: [Claude-Usage-Tracker](https://github.c
 
 ---
 
-## Screenshots
-
-| Popover | Settings |
-|---------|----------|
-| ![Popover](https://via.placeholder.com/360x580/2b2b2b/ececec?text=Popover+Preview) | ![Settings](https://via.placeholder.com/650x550/2b2b2b/ececec?text=Settings+Preview) |
-
-> Replace the placeholder images above with actual screenshots of your app.
-
----
-
 ## Tech Stack
 
 | Layer | Technology |

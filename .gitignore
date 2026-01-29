@@ -28,3 +28,6 @@ credentials.json
 
 # Electron builder cache
 .electron-builder-cache/
+
+# AI
+.claude

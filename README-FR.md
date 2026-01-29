@@ -55,16 +55,6 @@ Inspiré de l'excellente version macOS : [Claude-Usage-Tracker](https://github.c
 
 ---
 
-## Captures d'écran
-
-| Popover | Paramètres |
-|---------|------------|
-| ![Popover](https://via.placeholder.com/360x580/2b2b2b/ececec?text=Apercu+Popover) | ![Paramètres](https://via.placeholder.com/650x550/2b2b2b/ececec?text=Apercu+Parametres) |
-
-> Remplacez les images ci-dessus par de vraies captures d'écran de votre application.
-
----
-
 ## Stack Technique
 
 | Couche | Technologie |
